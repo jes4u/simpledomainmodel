@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FE6891181CB5D8E40018C340 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6891171CB5D8E40018C340 /* main.swift */; };
+		6A53FD8E2174563600A7899D /* SimpleDomainModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6891241CB5D90B0018C340 /* SimpleDomainModelTests.swift */; };
+		6A53FD8F2174563900A7899D /* JobTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE68912B1CB5FDC60018C340 /* JobTests.swift */; };
+		6A53FD922174576C00A7899D /* MoneyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE68912D1CB5FEC70018C340 /* MoneyTests.swift */; };
+		6A53FD94217457D000A7899D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6891171CB5D8E40018C340 /* main.swift */; };
+		6A53FD95217457D800A7899D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6891171CB5D8E40018C340 /* main.swift */; };
 		FE6891251CB5D90B0018C340 /* SimpleDomainModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6891241CB5D90B0018C340 /* SimpleDomainModelTests.swift */; };
-		FE68912A1CB5D9130018C340 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE6891171CB5D8E40018C340 /* main.swift */; };
 		FE68912C1CB5FDC60018C340 /* JobTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE68912B1CB5FDC60018C340 /* JobTests.swift */; };
-		FE68912E1CB5FEC70018C340 /* MoneyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE68912D1CB5FEC70018C340 /* MoneyTests.swift */; };
 		FE6891301CB6023B0018C340 /* PersonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE68912F1CB6023B0018C340 /* PersonTests.swift */; };
 /* End PBXBuildFile section */
 
@@ -184,7 +186,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE6891181CB5D8E40018C340 /* main.swift in Sources */,
+				6A53FD8E2174563600A7899D /* SimpleDomainModelTests.swift in Sources */,
+				6A53FD95217457D800A7899D /* main.swift in Sources */,
+				6A53FD8F2174563900A7899D /* JobTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,9 +197,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE68912C1CB5FDC60018C340 /* JobTests.swift in Sources */,
-				FE68912A1CB5D9130018C340 /* main.swift in Sources */,
+				6A53FD94217457D000A7899D /* main.swift in Sources */,
 				FE6891301CB6023B0018C340 /* PersonTests.swift in Sources */,
-				FE68912E1CB5FEC70018C340 /* MoneyTests.swift in Sources */,
+				6A53FD922174576C00A7899D /* MoneyTests.swift in Sources */,
 				FE6891251CB5D90B0018C340 /* SimpleDomainModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
